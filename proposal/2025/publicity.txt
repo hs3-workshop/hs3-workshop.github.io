@@ -1,0 +1,13 @@
++ JT: ulf.de.wahl@ericsson.com, christoph.baumann@ericsson.com, thomas.nyman@ericsson.com
++ JT: cosic-distrinet@esat.kuleuven.be, tee@cs.kuleuven.be
++ JT: seworld@sigsoft.org
++ JT: SECURITY@fosad.org
++ JT: tccc-announce@COMSOC.ORG
++ JT: mail PC, ask to spread CfP -> pc.txt
++ JT: https://sec-deadlines.github.io/
++ GH: gt-sslr@irisa.fr
++ GH: ifip-tc11@dlist.server.uni-frankfurt.de
++ GH: gdr-securite.forum@irisa.fr (French GDR security/French researcher working in security)
++ GH: http://www.wikicfp.com/cfp/
++ GH: https://www.cfptime.org/home`
+

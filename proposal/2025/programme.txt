@@ -1,0 +1,16 @@
+
+09:00 Opening and Intro
+09:15 Invited Talk: Prof. Brent Byunghoon Kang
+10:15 --- Break (Coffee) ---
+10:30 BugsBunny: Hopping to RTL Targets with a Directed Hardware-Design Fuzzer
+11:00 Invited Talk: Dr. Jan Erik Ekberg
+12:00 --- Break Lunch (Lunch) ---
+13:00 Invited Talk: Prof. Marco Guarnieri
+14:00 A formally verified shadow stack for RISC-V
+14:30 --- Break ---
+14:45 BEERR: Bench of Embedded system Experiments for Reproducible Research
+15:15 Dr. Archanaa Krishnan
+16:15 --- Break (Coffee) ---
+16:30 *We have about one hour for a panel or short talks and discussion*
+18:00 --- Finish ---
+
