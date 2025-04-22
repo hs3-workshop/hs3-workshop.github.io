@@ -1,0 +1,33 @@
+
+- title: Home
+  url: /
+
+- title: Scope &amp; Objectives
+  url: "#scope-and-objectives"
+
+- title: Call for Contributions
+  url: "#call-for-contributions"
+
+- title: Registration
+  url: "#register-and-participate"
+
+- title: Workshop Schedule
+  url: "#workshop-schedule"
+
+- title: Organisers
+  url: "#organisers"
+
+
+# Groups currently don't look good in Dinky. Needs a better style
+# definition.
+#
+#- title: Group of Things
+#  url: /group/
+#  sublinks:
+#    - title: Sub-item 1
+#      url: /group/si1
+#    - title: Sub-item 2
+#      url: /group/si2
+#    - title: Sub-item 3
+#      url: /group/si3
+
