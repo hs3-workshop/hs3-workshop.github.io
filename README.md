@@ -7,6 +7,7 @@
 ### General
 
 - Send mail to workshop chairs
+- Produce plain-text CFP
 
 ### Publicity
 
@@ -20,6 +21,7 @@
 ### Website
 
 - Link to Easychair
+- Add PC to Website
 - We should say somewhere that this new workshop is a follow-up of the SILM
   workshop, with a link to the SILM webpage.
 - The links in red are difficult to read against a black background. ->
