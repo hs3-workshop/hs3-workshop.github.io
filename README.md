@@ -11,9 +11,9 @@
 
 ### Publicity
 
-- ifip-TC11 : https://www.ifiptc11.org/info-services
-- fosad : https://listserv.iit.cnr.it/cgi-bin/wa?A0=security
-- French GDR : https://gdr-securite.irisa.fr/
+- ifip-TC11: https://www.ifiptc11.org/info-services
+- fosad: https://listserv.iit.cnr.it/cgi-bin/wa?A0=security
+- French GDR: https://gdr-securite.irisa.fr/
 - Wikicfp: http://www.wikicfp.com/cfp/
 - Sec Deadlines: https://sec-deadlines.github.io/
 - LinkedIn, BlueSky, Mastodon
@@ -21,7 +21,6 @@
 ### Website
 
 - Link to Easychair
-- Add PC to Website
 - We should say somewhere that this new workshop is a follow-up of the SILM
   workshop, with a link to the SILM webpage.
 - The links in red are difficult to read against a black background. ->
