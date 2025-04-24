@@ -113,5 +113,5 @@ For accepted papers, at least one author must attend the workshop.
 * Shweta Shinde, ETH Zurich
 * Pierre Wilke, CentraleSupélec/Inria
 
-Contact email: hs3-workshop@inria.fr
+* Contact email: hs3-workshop@inria.fr
 
