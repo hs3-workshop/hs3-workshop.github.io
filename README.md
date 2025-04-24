@@ -7,7 +7,6 @@
 ### General
 
 - Send mail to workshop chairs
-- Produce plain-text CFP
 
 ### Publicity
 
