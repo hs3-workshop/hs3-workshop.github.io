@@ -113,6 +113,7 @@ For accepted papers, at least one author must attend the workshop.
 * Maria Méndez Real, Université Bretagne Sud
 * Kaveh Razavi, ETH Zurich
 * Shweta Shinde, ETH Zurich
+* Volker Stolz, HVL
 * Pierre Wilke, CentraleSupélec/Inria
 
 * Contact email: hs3-workshop@inria.fr
