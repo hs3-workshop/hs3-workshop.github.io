@@ -15,7 +15,10 @@
 - French GDR: https://gdr-securite.irisa.fr/
 - Wikicfp: http://www.wikicfp.com/cfp/
 - Sec Deadlines: https://sec-deadlines.github.io/
+    - Done
 - LinkedIn, BlueSky, Mastodon
+    - https://mastodon.online/@jtmuehlberg/114400867459563490
+    - https://www.linkedin.com/feed/update/urn:li:share:7321655361608814592/
 
 ### Website
 
