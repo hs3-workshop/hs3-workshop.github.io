@@ -14,6 +14,7 @@
 - fosad: https://listserv.iit.cnr.it/cgi-bin/wa?A0=security
 - French GDR: https://gdr-securite.irisa.fr/
 - Wikicfp: http://www.wikicfp.com/cfp/
+    - Done (will paste the URL later)
 - Sec Deadlines: https://sec-deadlines.github.io/
     - Done
 - LinkedIn, BlueSky, Mastodon
