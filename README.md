@@ -17,8 +17,8 @@
 - fpga-list
     - Done
 - French GDR: https://gdr-securite.irisa.fr/
-- Wikicfp: http://www.wikicfp.com/cfp/
-    - Done (will paste the URL later)
+- Wikicfp: [http://www.wikicfp.com/cfp/](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187891&copyownerid=193101)
+    - Done
 - Sec Deadlines: https://sec-deadlines.github.io/
     - Done
 - LinkedIn, BlueSky, Mastodon
