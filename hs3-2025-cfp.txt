@@ -101,13 +101,17 @@ For accepted papers, at least one author must attend the workshop.
 * Pascal Cotret, ENSTA Bretagne
 * Kevin Cheang, University of California, Berkeley
 * Chris Dalton, HP Labs
+* Lesly-Ann Daniel, KU Leuven
 * Merve Gülmez, Ericsson Research/KU Leuven
 * Vianney Lapôtre, Univ. South Brittany
 * Clémentine Maurice, CNRS
 * Maria Méndez Real, Université Bretagne Sud
+* Cristofaro Mune, Raelize B.V.
 * Kaveh Razavi, ETH Zurich
+* Simon Rokicki, ENS Rennes
 * Shweta Shinde, ETH Zurich
 * Volker Stolz, HVL
+* Marcus Voelp, Uni Luxembourg
 * Pierre Wilke, CentraleSupélec/Inria
 
 * Contact email: hs3-workshop@inria.fr
