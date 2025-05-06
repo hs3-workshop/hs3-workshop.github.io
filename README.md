@@ -11,9 +11,14 @@
 ### Publicity
 
 - ifip-TC11: https://www.ifiptc11.org/info-services
+    - Done
 - fosad: https://listserv.iit.cnr.it/cgi-bin/wa?A0=security
+    - Done
+- fpga-list
+    - Done
 - French GDR: https://gdr-securite.irisa.fr/
-- Wikicfp: http://www.wikicfp.com/cfp/
+- Wikicfp: [http://www.wikicfp.com/cfp/](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=187891&copyownerid=193101)
+    - Done
 - Sec Deadlines: https://sec-deadlines.github.io/
     - Done
 - LinkedIn, BlueSky, Mastodon
