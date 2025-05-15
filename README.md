@@ -27,7 +27,6 @@
 
 ### Website
 
-- Link to Easychair
 - We should say somewhere that this new workshop is a follow-up of the SILM
   workshop, with a link to the SILM webpage.
 - The links in red are difficult to read against a black background. ->
