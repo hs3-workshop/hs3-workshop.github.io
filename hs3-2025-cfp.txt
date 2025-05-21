@@ -116,6 +116,7 @@ For accepted papers, at least one author must attend the workshop.
 * Clémentine Maurice, CNRS
 * Maria Méndez Real, Université Bretagne Sud
 * Cristofaro Mune, Raelize B.V.
+* Antonio Muñoz, University of Málaga
 * Kaveh Razavi, ETH Zurich
 * Simon Rokicki, ENS Rennes
 * Shweta Shinde, ETH Zurich
