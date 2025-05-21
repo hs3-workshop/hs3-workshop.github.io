@@ -87,7 +87,15 @@ appear in the proceedings.
 Papers must be typeset in LaTeX using the LNCS template:
 https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
 Failure to adhere to the page limit and formatting requirements can be
-grounds for rejection.
+grounds for rejection.  Well-marked appendices do not count into the page
+limit; PC members are also not required to consider material presented in
+appendices when reviewing submissions. We will clarify the constraints for
+including appendices in camera-ready papers closer to the camera-ready
+deadline and after discussion with the workshop chairs and the publisher.
+
+Paper must be submitted through the ESORICS EasyChair website; select the
+"HS3" track toindicate that you are submitting to this workshop:
+https://easychair.org/conferences/?conf=esorics2025
 
 For accepted papers, at least one author must attend the workshop.
 
