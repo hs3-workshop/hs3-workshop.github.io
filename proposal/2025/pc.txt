@@ -1,28 +1,54 @@
-Guillaume Hiet <guillaume.hiet@centralesupelec.fr>
-Jan Tobias Muehlberg <jan.tobias.muehlberg@ulb.be>
-Pascal Cotret <pascal.cotret@gmail.com>
-Chris Dalton <cid@hp.com>
-Lesly-Ann Daniel <lesly-ann.daniel@kuleuven.be>
-Merve Guelmez <merve.gulmez@ericsson.com>
-Yuko Hara <hara@cad.ict.e.titech.ac.jp>
-Karine Heydemann <karine.heydemann@lip6.fr>
-Kevin Cheang <kcheang@berkeley.edu>
-Vianney Lapôtre <vianney.lapotre@univ-ubs.fr>
-Clémentine Maurice <clementine.maurice@inria.fr>
-Cristofaro Mune <cristofaro@raelize.com>
-Kaveh Razavi <kaveh@ethz.ch>
-Simon Rokicki <simon.rokicki@irisa.fr>
-Gururaj Saileshwar <gururaj@cs.toronto.edu>
-Shweta Shinde <shweta.shivajishinde@inf.ethz.ch>
-Volker Stolz <Volker.Stolz@hvl.no>
-Marcus Voelp <marcus.voelp@uni.lu>
-Pierre Wilke <pierre.wilke@centralesupelec.fr>
+
+* Guillaume Hiet, IRISA, CentraleSupelec/Inria, France (co-chair)
+  guillaume.hiet@centralesupelec.fr
+* Yuko Hara, Institute of Science, Tokyo, Japan (co-chair)
+  hara@cad.ict.e.titech.ac.jp
+* Jan Tobias Muehlberg, Universite Libre de Bruxelles, Belgium (co-chair)
+  jan.tobias.muehlberg@ulb.be
+
+* Iness Ben Guirat, Universite Libre de Bruxelles
+  iness.ben.guirat@ulb.be
+* Pascal Cotret, ENSTA Bretagne
+  pascal.cotret@ensta.fr
+* Kevin Cheang, University of California, Berkeley
+  kcheang@berkeley.edu
+* Chris Dalton, HP Labs
+  cid@hp.com
+* Lesly-Ann Daniel, KU Leuven
+  lesly-ann.daniel@kuleuven.be
+* Merve Gülmez, Ericsson Research/KU Leuven
+  merve.gulmez@ericsson.com
+* Karine Heydemann, Thales
+  karine.heydemann@thalesgroup.com
+* Vianney Lapôtre, Univ. South Brittany
+  vianney.lapotre@univ-ubs.fr
+* Clémentine Maurice, CNRS
+  clementine.maurice@inria.fr
+* Maria Méndez Real, Université Bretagne Sud
+  maria.mendez-real@univ-ubs.fr
+* Cristofaro Mune, Raelize B.V.
+  cristofaro@raelize.com
+* Antonio Muñoz, University of Málaga
+  anto@uma.es
+* Kaveh Razavi, ETH Zurich
+  kaveh@ethz.ch
+* Simon Rokicki, ENS Rennes
+  simon.rokicki@irisa.fr
+* Shweta Shinde, ETH Zurich
+  shweta.shinde@inf.ethz.ch
+* Volker Stolz, HVL
+  Volker.Stolz@hvl.no
+* Marcus Voelp, Uni Luxembourg
+  marcus.voelp@uni.lu
+* Pierre Wilke, CentraleSupélec/Inria
+  pierre.wilke@centralesupelec.fr
 
 # --- old ---
 
 Guillaume Bouffard <Guillaume.Bouffard@ssi.gouv.fr>
 Damien Couroussé <damien.courousse@cea.fr>
 Lucas Davi <lucas.davi@uni-due.de>
+Gururaj Saileshwar <gururaj@cs.toronto.edu>
 Ronan Lashermes <ronan.lashermes@inria.fr>
 Erven Rohou <erven.rohou@inria.fr>
 Yuval Yarom <yuval.yarom@rub.de>
