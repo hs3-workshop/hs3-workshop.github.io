@@ -92,7 +92,7 @@ limit; PC members are also not required to consider material presented in
 appendices when reviewing submissions. We will clarify the constraints for
 including appendices in camera-ready papers closer to the camera-ready
 deadline and after discussion with the workshop chairs and the publisher.
-We follow the ESORCS Call for Papers regarding anonymity of submissions and
+We follow the ESORICS Call for Papers regarding anonymity of submissions and
 do not require papers to be anonymised. Anonymised submissions are,
 however, welcome at HS3.
 
