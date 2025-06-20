@@ -60,7 +60,9 @@ domain.
 
 ==== Important Dates
 
-* Submission: June 20, 2025 -- 11:59pm AoE
+* Submission: June 23, 2025 -- 11:59pm AoE
+  We have extended the submission deadline once more to encourage modified
+  or shortened re-submissions from ESORICS.
 * Author Notification: July 28, 2025
 * Camera Ready Version: August 28, 2025
 * Workshop: September 25, 2025
