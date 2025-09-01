@@ -14,8 +14,8 @@
   kcheang@berkeley.edu
 * Chris Dalton, HP Labs
   cid@hp.com
-* Lesly-Ann Daniel, KU Leuven
-  lesly-ann.daniel@kuleuven.be
+* Lesly-Ann Daniel, Eurecom
+  lesly-ann.daniel@eurecom.fr
 * Merve Gülmez, Ericsson Research/KU Leuven
   merve.gulmez@ericsson.com
 * Karine Heydemann, Thales
