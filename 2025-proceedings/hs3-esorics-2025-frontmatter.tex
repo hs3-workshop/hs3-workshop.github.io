@@ -1,6 +1,7 @@
 \documentclass[runningheads]{llncs}
 \usepackage{longtable}
 \usepackage{nth}
+\usepackage[english=american,babel=false]{csquotes}
 
 \begin{document}
 \frontmatter
@@ -15,103 +16,57 @@ European Symposium on Research in Computer Security (ESORICS 2025), held in
 Toulouse, France, on the \nth{25} of September, 2025.
 
 The HS3 workshop seeks to share experience, tools and methodology on
-hardware-assisted software security. We are looking forward to submissions
-that propose new architectures offering better resilience against software
-attacks. These architectures should rely on hardware-based security
-mechanisms to protect the software stack. One of the challenges is to
-formally specify and verify the security guarantees offered by such
-architectures and to better assess the security guarantees provided by
+hardware-assisted software security. Combining software and hardware
+aspects to consider new software attacks is becoming increasingly
+important. For example, hardware vulnerabilities such as Spectre or
+Meltdown can be exploited purely by software attacks. Such attacks can be
+executed remotely and do not require physical access to the targeted
+hardware platform. However, hardware features can be used to better detect
+and respond to traditional software attacks, such as memory corruption. The
+goal of the HS3 workshop was to provide a forum for researchers and
+practitioners from academia, industry and government, who study the
+security of software/hardware interfaces in terms of attacks and defenses,
+and hardware-supported software security.
+
+We were looking for submissions that propose new processor architectures
+or processor extensions that offer better resilience against software
+attacks. These architectures typically provide hardware-based security
+mechanisms to protect the software stack.  One of the key challenges in the
+field is to formally specify and verify the security guarantees offered by
+such architectures and to better assess the security guarantees provided by
 existing hardware architectures against software attacks, especially
 attacks against micro-architecture. This can be achieved by identifying new
 vulnerabilities using reverse engineering, fuzzing or other attack
-approaches. The goal of the HS3 workshop is to provide a forum for
-researchers and practitioners from academia, industry and government that
-work on hardware-assisted software security. HS3 2025 has a special theme
-on “Secure Monitoring, Intrusion Detection, and Incident Response” and we
-are specifically looking forward to submissions that present
-hardware-assisted approaches in this domain.
+approaches. HS3 2025 also had a special theme on \enquote{Secure
+Monitoring, Intrusion Detection, and Incident Response} and we were
+specifically inviting submissions that present hardware-assisted approaches
+in this domain.
 
-Combining software and hardware aspects to consider new software attacks is
-becoming increasingly important. For example, hardware vulnerabilities such
-as Spectre or Meltdown can be exploited purely by software attacks. Such
-attacks can be executed remotely and do not require physical access to the
-targeted hardware platform. On the other hand, hardware features can be
-used to better detect and respond to traditional software attacks, such as
-memory corruption. Therefore, it is necessary to study the security of
-software/hardware interfaces in terms of attacks and defenses.
+Given that HS3 is a very young workshop, running for the first time in
+co-location with ESORICS, our call for papers attracted significant interest
+and resulted in 14 submissions. Each manuscript underwent a rigorous
+peer-review process, with 3 single-blinded reviewers per paper, and
+guaranteeing that chairs and committee members would not review their own or
+otherwise conflicting submissions. Ultimately, we accepted 3 regular papers
+and 4 short papers, achieving a 50\,\% acceptance rate.
 
-The purpose of the HS3 workshop is to share experience, tools and
-methodology on hardware-assisted software security. On one hand, we need to
-propose new architectures offering better resilience against software
-attacks. These architectures should rely on hardware-based security
-mechanisms to protect the software stack. One of the challenges is to
-formally specify and verify the security guarantees offered by such
-architectures. On the other hand, we also need to assess better the
-security guarantees provided by existing hardware architectures against
-software attacks, especially attacks against micro-architecture. This can
-be achieved by identifying new vulnerabilities using reverse engineering,
-fuzzing or other attack approaches. The goal of the HS3 workshop is to
-provide a forum for researchers and practitioners from academia, industry
-and government that work on hardware-assisted software security.
+The workshop itself featured 10 presentations (including 3 work-in-progress
+submissions that are not present in the proceedings), an invited talk, and
+time for discussion and reflection. With over 30 participants, the workshop
+was well frequented and lively discussions around recent trends in
+hardware-supported security and application-related topics.
 
-Special Theme: Secure Monitoring, Intrusion Detection, and Incident
-Response
+We mould like to thank our invited speaker, Dr. Robert Norton, for
+delivering an inspiring keynote on \enquote{Hardware-software co-design for
+security with CHERIoT: from memory-safety to software supply-chain
+resilience}.  We further thank programme committee and external reviewers
+for their tireless commitment during the advertising and reviewing phase.
+Most importantly, we thank all our speakers and participants for the great
+presentations and intriguing discussions during the workshop. Finally we
+would like to thank the ESORICS organization and specifically the workshop
+chairs for supporting us throughout the process of preparing and running
+HS3: Next year you will have to allocate a bigger room for us.
 
-Intrusion Detection System have become ubiquitous cybersecurity tools that
-monitor network traffic or other system activity to then identify anomalous
-behavior or policy violations. Upon detection, these systems may alert
-security teams or central security systems, reporting potential threats, or
-even trigger automated responses. For this year’s edition of the HS3
-workshop, we especially encourage submissions that investigate questions
-regarding the hardware-supported design of such systems. We are
-specifically interested in submissions in the area of secure monitoring,
-intrusion detection, and incident response, and we seek to develop a
-special track, potentially with invited talks or panel discussions, on this
-domain.
-
-
-The call for papers attracted signiﬁ-
-cant interest, resulting in 42 submissions, underscoring the workshop’s prominence in
-advancing research in this ﬁeld. Each manuscript underwent a rigorous peer-review pro-
-cess, with 2–4 single-blinded reviewers per paper, and all chairs and committee members
-refraining from reviewing their own submissions. Ultimately, we accepted 10 regular
-papers and 5 short papers, achieving a 35% acceptance rate.
-
-Special thanks to our invited speaker ...
-
-Thanks to the programme committee and external reviewers, to all speakers
-and participants for ...
-
-
-
-The final Table of Contents is created by Springer from the title information
-in the papers. However, we ask you to provide us with a preliminary Table of
-Contents when you send the files. This should contain the titles of the
-papers and the names of the authors in the order in which they are to appear
-in the volume and should include topical section headings. The papers should
-be grouped according to the topics they address and not according to the
-sessions of the conference. Any session numbering will be deleted by our
-typesetters. Please include all papers pertaining to one topic under one
-single topical heading, even if there are/were two or three such sessions at
-the conference. If the titles given in your preliminary Table of Contents
-differ from those in the papers, then we take the paper titles to be the
-correct ones and create the final Contents accordingly.
-
-The Author Index is also generated at Springer, but you can help us present
-the authors’ names in the correct way by submitting a list of authors who
-have complex family names, particles, or suffixes, or do not use the Western
-name order (i.e., given name(s); family name). It should be made quite clear,
-which part of the name is the given name and which is the family name.
-
-Please check that the names of the authors are written consistently
-throughout the proceedings volume. If an author has contributed to more than
-one paper, their name should be spelt and structured in an identical manner
-in all papers as well as in the Table of Contents.
-
-At the end of the preface, the month and year should be inserted on the
-left-hand side and the names of the authors of the preface (i.e., the PC
-Chairs) should be listed on the right-hand side. Please note that pages I--IV
-(in front of the Preface) are prepared by Springer.
 \medskip
 
 \begin{flushright}
