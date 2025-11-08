@@ -1,55 +1,88 @@
 \documentclass[runningheads]{llncs}
 \usepackage{longtable}
+\usepackage{nth}
 
 \begin{document}
 \frontmatter
 \setcounter{page}{5}
 
-\chapter*{Preface}
+\chapter*{Preface to the Proceedings of HS3 2025}
 \markboth{Preface}{Preface}
 
-It is the task of the volume editor to prepare the Organization pages and the
-Preface and to structure the volume in comprehensible parts. The Preface
-should give a good introduction to the volume and present the conference or
-workshop, mentioning the venue, dates, and the focus of the event. Clear
-information regarding the peer review process (single or double
-blind\,/\,number of reviews per paper) and the numbers and types (full,
-short, invited) of papers submitted and accepted should be given. If invited
-papers are included in the main part of the manuscript, please include a
-sentence or two in the Preface explaining how they were reviewed. For
-contributions co-authored by any committee members, please explain in the
-Preface how these were objectively handled during the review phase.
+This volume presents the revised papers of the 1st Workshop on
+Hardware-Supported Software Security (HS3 2025), co-located with the 30th
+European Symposium on Research in Computer Security (ESORICS 2025), held in
+Toulouse, France, on the \nth{25} of September, 2025.
 
-The Preface is usually one or two pages long and is followed by the
-Organization pages. By default, for Springer Computer Science proceedings
-volumes, the volume editors (the people named on the book cover) should be
-the Program Committee Chairs, and they should also be the people who write
-the Preface. In this way, the Program Committee Chairs take responsibility
-for the scientific program of the conference, and for decisions on the
-content of the Springer-published proceedings.
+The HS3 workshop seeks to share experience, tools and methodology on
+hardware-assisted software security. We are looking forward to submissions
+that propose new architectures offering better resilience against software
+attacks. These architectures should rely on hardware-based security
+mechanisms to protect the software stack. One of the challenges is to
+formally specify and verify the security guarantees offered by such
+architectures and to better assess the security guarantees provided by
+existing hardware architectures against software attacks, especially
+attacks against micro-architecture. This can be achieved by identifying new
+vulnerabilities using reverse engineering, fuzzing or other attack
+approaches. The goal of the HS3 workshop is to provide a forum for
+researchers and practitioners from academia, industry and government that
+work on hardware-assisted software security. HS3 2025 has a special theme
+on “Secure Monitoring, Intrusion Detection, and Incident Response” and we
+are specifically looking forward to submissions that present
+hardware-assisted approaches in this domain.
 
-If you plan any other approach, i.e., if you plan to have volume editors who
-are not the Program Committee chairs, please contact the Springer Editor to
-explain and to seek approval. If approved, we ask you to include a sentence
-about this in the Preface.
+Combining software and hardware aspects to consider new software attacks is
+becoming increasingly important. For example, hardware vulnerabilities such
+as Spectre or Meltdown can be exploited purely by software attacks. Such
+attacks can be executed remotely and do not require physical access to the
+targeted hardware platform. On the other hand, hardware features can be
+used to better detect and respond to traditional software attacks, such as
+memory corruption. Therefore, it is necessary to study the security of
+software/hardware interfaces in terms of attacks and defences.
 
-The names and roles of all of the Chairs should be included on the
-Organization pages. When listing the Program Committee members, kindly just
-state their names, their universities/affiliations and their countries and do
-not include the departments or the institutes within the universities. The
-names of the committee members should be ordered alphabetically, according to
-surname, as shown on the Organization pages following on from this Preface.
-Please also make sure that affiliations are spelt consistently.
+The purpose of the HS3 workshop is to share experience, tools and
+methodology on hardware-assisted software security. On one hand, we need to
+propose new architectures offering better resilience against software
+attacks. These architectures should rely on hardware-based security
+mechanisms to protect the software stack. One of the challenges is to
+formally specify and verify the security guarantees offered by such
+architectures. On the other hand, we also need to assess better the
+security guarantees provided by existing hardware architectures against
+software attacks, especially attacks against micro-architecture. This can
+be achieved by identifying new vulnerabilities using reverse engineering,
+fuzzing or other attack approaches. The goal of the HS3 workshop is to
+provide a forum for researchers and practitioners from academia, industry
+and government that work on hardware-assisted software security.
 
-At the end of the Organization pages, the sponsors may be listed and their
-respective logos displayed. The Steering Committee members are usually listed
-above the Program Committee members.
+Special Theme: Secure Monitoring, Intrusion Detection, and Incident
+Response
 
-We prefer the use of American English in the Preface and we ask you to write
-the Preface in the past tense, because it is mainly read after the event. The
-Preface and the Organization pages will be copy-edited at our end, and any
-corrections are submitted to the corresponding volume editor for approval.
-Light technical copy-editing of the papers may also be performed.
+Intrusion Detection System have become ubiquitous cybersecurity tools that
+monitor network traffic or other system activity to then identify anomalous
+behaviour or policy violations. Upon detection, these systems may alert
+security teams or central security systems, reporting potential threats, or
+even trigger automated responses. For this year’s edition of the HS3
+workshop, we especially encourage submissions that investigate questions
+regarding the hardware-supported design of such systems. We are
+specifically interested in submissions in the area of secure monitoring,
+intrusion detection, and incident response, and we seek to develop a
+special track, potentially with invited talks or panel discussions, on this
+domain.
+
+
+The call for papers attracted signiﬁ-
+cant interest, resulting in 42 submissions, underscoring the workshop’s prominence in
+advancing research in this ﬁeld. Each manuscript underwent a rigorous peer-review pro-
+cess, with 2–4 single-blinded reviewers per paper, and all chairs and committee members
+refraining from reviewing their own submissions. Ultimately, we accepted 10 regular
+papers and 5 short papers, achieving a 35% acceptance rate.
+
+Special thanks to our invited speaker ...
+
+Thanks to the programme committee and external reviewers, to all speakers
+and participants for ...
+
+
 
 The final Table of Contents is created by Springer from the title information
 in the papers. However, we ask you to provide us with a preliminary Table of
@@ -89,7 +122,7 @@ Chairs) should be listed on the right-hand side. Please note that pages I--IV
 \end{flushright}
 
 
-\chapter*{Organization}
+\chapter*{Organization of HS3 2025}
 \markboth{Organization}{Organization}
 \setlength{\tabcolsep}{0pt}     % remove spacing between columns in the following long tables
 \setlength{\LTpre}{0pt}         % remove extra vertical space before the long tables
