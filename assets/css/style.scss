@@ -178,3 +178,21 @@ section {
 }
 
 
+/* Past Editions sub-navigation */
+header li li {
+  width: auto;
+  height: auto;
+  margin-bottom: 4px;
+  background: rgba(255,255,255,0.08) !important;
+  box-shadow: none !important;
+  border: none !important;
+  -webkit-box-shadow: none !important;
+
+  &:hover {
+    background: rgba(255,255,255,0.2) !important;
+  }
+
+  a {
+    font-size: 0.85em;
+  }
+}

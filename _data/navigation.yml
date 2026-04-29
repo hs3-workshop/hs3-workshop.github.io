@@ -17,6 +17,11 @@
 - title: Organisers
   url: "#organisation-and-programme-committee"
 
+- title: Past Editions
+  url: /2025
+  sublinks:
+    - title: 2025
+      url: /2025
 
 # Groups currently don't look good in Dinky. Needs a better style
 # definition.
