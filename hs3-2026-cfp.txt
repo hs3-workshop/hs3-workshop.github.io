@@ -97,8 +97,8 @@ least one author must attend the workshop.
 * Pascal Cotret, ENSTA Bretagne
 * Kevin Cheang, University of California, Berkeley
 * Chris Dalton, HP Labs
-* Lesly-Ann Daniel, KU Leuven
-* Merve Gülmez, Ericsson Research/KU Leuven
+* Lesly-Ann Daniel, EURECOM
+* Merve Gülmez, Ericsson Research
 * Karine Heydemann, Thales
 * Vianney Lapôtre, Univ. South Brittany
 * Clémentine Maurice, CNRS
