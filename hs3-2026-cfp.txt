@@ -37,7 +37,7 @@ low-level attacks against, and attack mitigations for AI systems,
 specifically if these involve (micro-)architectural aspects of the
 execution environment. HS3 will not accept general papers on AI security
 and we suggest that authors working on these topics submit their work to
-the RAISE or SecAI workshops instead.
+the AI-themed workshops at ESORICS instead.
 
 
 ==== Topics of interest include, but are not limited to the following
