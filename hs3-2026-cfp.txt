@@ -23,6 +23,23 @@ approaches. The goal of the HS3 workshop is to provide a forum for
 researchers and practitioners from academia, industry and government that
 work on hardware-assisted software security.
 
+Special Theme: Hardware-Supported Software Security for AI Systems
+
+As Artificial Intelligence (AI) systems become more deeply integrated
+into critical sectors, including healthcare, education, manufacturing,
+and mobility, these systems become high-value targets for cyber attacks.
+At the same time, hardware vendors rise to the challenge and provide,
+e.g., Trusted Execution and and Confidential Computing infrastructure on
+GPUs or other AI-targeting hardware. For this year’s edition of the HS3
+workshop, we want to encourage submissions that investigate questions
+regarding hardware-supported security approaches for AI systems and
+low-level attacks against, and attack mitigations for AI systems,
+specifically if these involve (micro-)architectural aspects of the
+execution environment. HS3 will not accept general papers on AI security
+and we suggest that authors working on these topics submit their work to
+the RAISE or SecAI workshops instead.
+
+
 ==== Topics of interest include, but are not limited to the following
 
 * Hardware-based security mechanisms
