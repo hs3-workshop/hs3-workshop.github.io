@@ -3,7 +3,7 @@
                           Call for Papers
 
        HS3 2026: 2nd Workshop on Hardware-Supported Software Security
-               Monday, September 14 2026, Rome (Italy)
+               Monday, September 17 2026, Rome (Italy)
                   https://hs3-workshop.github.io/2026.html
 
 Co-located with ESORICS 2026: https://sites.google.com/di.uniroma1.it/esorics2026/
@@ -64,7 +64,7 @@ the AI-themed workshops at ESORICS instead.
 * Submission: June 29, 2026 -- 11:59pm AoE (extended!)
 * Author Notification: July 20, 2026
 * Camera Ready Version: August 28, 2026
-* Workshop: September 14, 2026
+* Workshop: September 17, 2026
 
 ==== Submission and Publication
 
