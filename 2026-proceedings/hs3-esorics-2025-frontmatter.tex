@@ -1,0 +1,184 @@
+\documentclass[runningheads]{llncs}
+\usepackage{longtable}
+\usepackage{nth}
+\usepackage[english=american,babel=false]{csquotes}
+
+\begin{document}
+\frontmatter
+\setcounter{page}{5}
+
+\chapter*{Preface to the Proceedings of HS3 2026}
+\markboth{Preface}{Preface}
+
+This volume presents the revised papers of the \nth{2} Workshop on
+Hardware-Supported Software Security (HS3 2026), co-located with the 30th
+European Symposium on Research in Computer Security (ESORICS 2026), held in
+Rome, Italy, on the \nth{17} of September, 2026.
+
+The HS3 workshop seeks to share experience, tools and methodology on
+hardware-assisted software security. Combining software and hardware
+aspects to mitigate new software attacks is becoming increasingly
+important. For example, hardware vulnerabilities such as Spectre or
+Meltdown can be exploited entirely through software-level attacks and these
+attacks can be executed remotely, not requiring physical access to the
+targeted hardware platform. Effective mitigations to these attacks require
+hardware/software co-design, in particular when performance impacts are to
+be minimized. In addition, hardware features can also be used to better
+detect and respond to traditional software attacks, such as memory
+corruption. The goal of the HS3 workshop was to provide a forum for
+researchers and practitioners from academia, industry and government, who
+study the security of software/hardware interfaces in terms of attacks and
+defenses to develop hardware-supported software security.
+
+For HS3 2026 we were looking for submissions that propose new processor
+architectures or processor extensions that offer better resilience against
+software attacks. These architectures typically provide hardware-based
+security mechanisms to protect the software stack. One of the key
+challenges in the field is to formally specify and verify the security
+guarantees offered by such architectures and to better assess the security
+guarantees provided by existing hardware architectures against software
+attacks, especially attacks against micro-architecture. This can be
+achieved by identifying new vulnerabilities using reverse engineering,
+fuzzing or other attack approaches. HS3 2026 also had a special theme on
+\enquote{Hardware-Supported Software Security for AI Systems} and
+we were specifically inviting submissions that present hardware-assisted
+approaches in this domain.
+
+Our call for papers attracted significant interest and resulted in 14
+submissions. Each manuscript underwent a rigorous peer-review process, with
+3 single-blinded reviewers per paper, and guaranteeing that chairs and
+committee members would not review their own or otherwise conflicting
+submissions. Ultimately, we accepted 3 regular papers and 4 short papers,
+achieving a 50\,\% acceptance rate.
+
+The workshop itself featured 10 presentations (including 3 work-in-progress
+submissions that are not present in the proceedings), an invited talk, and
+time for discussion and reflection. With over 30 participants, the workshop
+was well frequented and promoted lively discussions around recent trends in
+hardware-supported security and on application-related topics.
+
+We would like to thank our invited speaker, Dr. Robert Norton, for
+delivering an inspiring keynote on \enquote{Hardware-software co-design for
+security with CHERIoT: from memory-safety to software supply-chain
+resilience}. We further thank programme committee and external reviewers
+for their tireless commitment during the advertising and reviewing phase.
+Most importantly, we thank all our speakers and participants for the great
+presentations and intriguing discussions during the workshop. Finally we
+would like to thank the ESORICS organizers and specifically the workshop
+chairs for supporting us throughout the process of preparing and running
+HS3: Next year you will have to allocate a bigger room for us.
+
+\medskip
+
+\begin{flushright}
+\noindent November 2025\hfill
+{Guillaume Hiet} \\
+{Yuko Hara} \\
+{Jan Tobias M\"uhberg} \\
+\end{flushright}
+
+
+\chapter*{Organization of HS3 2025}
+\markboth{Organization}{Organization}
+\setlength{\tabcolsep}{0pt}     % remove spacing between columns in the following long tables
+\setlength{\LTpre}{0pt}         % remove extra vertical space before the long tables
+
+\section*{Program Committee Chairs}
+\begin{longtable}{p{0.3\textwidth}p{0.7\textwidth}}
+Thomas Rokicki       & \\
+Jan Tobias M\"uhberg & Universit\'e Libre de Bruxelles, Belgium \\
+Yuko Hara            & Institute of Science, Tokyo, Japan \\
+\end{longtable}
+
+\section*{Program Committee}
+\begin{longtable}{p{0.3\textwidth}p{0.7\textwidth}}
+Iness Ben Guirat     & Universit\'e Libre de Bruxelles, Belgium \\
+Pascal Cotret        & ENSTA Bretagne, France \\
+Kevin Cheang         & University of California, Berkeley, USA  \\
+Chris Dalton         & HP Labs, United Kingdom \\
+Lesly-Ann Daniel     & KU Leuven, Belgium \\
+Guillaume Hiet       & IRISA, CentraleSup\'elec/Inria, France \\
+Merve G\"ulmez       & Ericsson Research, Sweden \& KU Leuven, Belgium \\
+Karine Heydemann     & Thales, France \\
+Vianney Lap\^otre    & Universit\'e Bretagne Sud, France \\
+Cl\'ementine Maurice & CNRS, France \\
+Maria M\'endez Real  & Universit\'e Bretagne Sud, France \\
+Cristofaro Mune      & Raelize B.V., Malta \\
+Antonio Mu\~noz      & University of M\'alaga, Spain \\
+Kaveh Razavi         & ETH Zurich, Switzerland \\
+Simon Rokicki        & ENS Rennes, France \\
+Shweta Shinde        & ETH Zurich, Switzerland \\
+Volker Stolz         & HVL, Sweden \\
+Marcus V\"olp        & University of  Luxembourg, Luxembourg \\
+Pierre Wilke         & CentraleSup\'elec/Inria, France \\
+\end{longtable}
+
+\section*{Additional Reviewers}
+\begin{multicols}{2}
+\noindent Navid Ladner \\
+\end{multicols}
+
+\tableofcontents
+
+\mainmatter
+
+%Create dummy chapters for the sample ToC
+
+\setcounter{page}{1}
+\addtocontents{toc}{\protect\section*{Side-Channel Attacks \& Discovery}}
+\author{Eyal Hadad and Mordechai Guri}
+\title{Shape and Substance: Dual-Layer Side-Channel Attacks on Local Vision-Language Models}
+\maketitle
+\clearpage
+
+\setcounter{page}{2}
+\author{Abla Smahi and Jan Tobias M\"uhlberg}
+\title{SoK: Software-Controlled Side Channels in LLM Inference}
+\maketitle
+\clearpage
+
+\setcounter{page}{3}
+\author{Nathanaël Simon, Maria Mushtaq and Ludovic Apvrille}
+\title{RLeak: Hybrid Reinforcement Learning Guided Fuzzing Framework for RISC-V Vulnerability Timing Side-Channel Discovery}
+\maketitle
+\clearpage
+
+\setcounter{page}{4}
+\addtocontents{toc}{\protect\section*{Measurement, Detection \& Evaluation Methodologies}}
+\author{Adam Henault, Camille Monière, Philippe Tanguy and Vianney Lapôtre}
+\title{Statistical Analysis of HPC Filtering: Towards Reliable Use in Security}
+\maketitle
+\clearpage
+
+\setcounter{page}{5}
+\author{Clément Médart, Pierre Graux, Clémentine Maurice and Gilles Grimaud}
+\title{PerfCT: Detecting Constant-Time Violations Using Hardware Performance Counters}
+\maketitle
+\clearpage
+
+\setcounter{page}{6}
+\author{Damien Jauvart and Aurélien Vasselle}
+\title{Evaluating the Security of Open-Source Cryptographic Libraries Against Physical Attacks: An End-to-End Study on Botan}
+\maketitle
+\clearpage
+
+\setcounter{page}{7}
+\addtocontents{toc}{\protect\section*{Trust \& Cryptographic Hardware}}
+\author{Michał Wroński, Łukasz Dzierzkowski, Mateusz Leśniak and Ewa Syta.}
+\title{A Universal Weierstrass Engine for Hardware-Supported Quantum Cryptanalysis of RSA, DH, and ECC}
+\maketitle
+\clearpage
+
+\setcounter{page}{8}
+\author{Julian Funk, Matti Schulze, Patrick Sieber, Manuel Vögele, Jonas Röckl and Tilo Müller}
+\title{Solving Attestation Fragility: A Software-Based Trust Anchor for Agile Confidential VMs}
+\maketitle
+
+\clearpage
+\setcounter{page}{9}
+\phantom{Author Index}
+\addcontentsline{toc}{title}{\protect\textbf{Author Index}}
+\clearpage
+
+\end{document}
+
